@@ -1,5 +1,10 @@
-package src;
+
 import java.io.*;
+
+import src.ClassA;
+import src.ClassB;
+import src.ClassD;
+import src.Inspector;
 
 public class Driver {
 

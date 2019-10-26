@@ -1,7 +1,7 @@
 ======================================================
 Filename: script7.txt
-Running Test: [[Lsrc.ClassB;@14ae5a5
-Recursive: false
+Running Test: [[Lsrc.ClassB;@4aa298b7
+Recursive: true
 Class Name [[[Lsrc.ClassB;]
 SuperClass [java.lang.Object]
 Class Name [java.lang.Object]
