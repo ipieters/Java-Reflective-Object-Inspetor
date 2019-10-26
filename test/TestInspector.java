@@ -1,8 +1,10 @@
-package src;
+package test;
 
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
+
+import src.Inspector;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;

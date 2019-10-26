@@ -1,3 +1,12 @@
+/*
+ * Igor Pieters
+ * UCID 30061116
+ * Assignment 2 - CPSC 501
+ * Fall 2019
+ * 
+ * Class reflective inspector that retrieves information of classes it is reflecting on. 
+ * 
+ * */
 package src;
 
 import java.lang.reflect.Array;
