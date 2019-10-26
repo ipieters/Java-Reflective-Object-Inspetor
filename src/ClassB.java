@@ -1,3 +1,4 @@
+package src;
 
 public class ClassB extends ClassC implements Runnable {
 

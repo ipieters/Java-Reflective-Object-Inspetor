@@ -1,3 +1,4 @@
+package src;
 
 public abstract class ClassC extends ClassD implements InterfaceA {
 
